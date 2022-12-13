@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @racheltz
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @rachel
 - 📫 How to reach me njaurachelpaul@gmail.com
 
 <!---
